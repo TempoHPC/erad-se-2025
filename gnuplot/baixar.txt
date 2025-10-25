@@ -1,0 +1,1 @@
+scp rpsouto@login.sdumont.lncc.br:/scratch/cenapadrjsd/isabel.barboza/mpas/benchmark/MPAS-A_benchmark_060km_v7.0_intel/desempenhoMpas2h.txt .
